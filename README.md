@@ -9,9 +9,9 @@
   </a>
 </p>
 
-<img align="top" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200" alt="Coding gif" />
+<img align="left" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200" alt="Coding gif" />
 
-## 👨‍💻 Sobre mí
+# 👨‍💻 Sobre mí
 
 <br>
 
