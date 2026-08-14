@@ -13,7 +13,11 @@
 
 <br>
 
-- 🎓 Estudiante de **Ingeniería de Sistemas** en la Universidad Privada del Norte (UPN) — egreso 2026. <br>
+- 🎓 Estudiante de **Ingeniería de Sistemas** en la Universidad Privada del Norte (UPN) — egreso 2026.
+
+
+
+
 - 💻 Desarrollador de software enfocado en **web y móvil**: React, Node.js, React Native y Firebase. <br>
 - 🛒 Autor de **Calletano POS**, un sistema de punto de venta para CALLETANO RESTAURANT con sincronización en tiempo real entre caja, meseros y web. <br>
 - 🚀 Me destaco por transformar procesos manuales en sistemas eficientes: gestión de salón, cobros, inventario y reportes. <br>
