@@ -12,14 +12,15 @@
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220" alt="Coding gif" />
 
 ## 👨‍💻 Sobre mí
-<br>
+<br><br>
+
 - 🎓 Estudiante de **Ingeniería de Sistemas** en la Universidad Privada del Norte (UPN) — egreso 2026.
 - 💻 Desarrollador de software enfocado en **web y móvil**: React, Node.js, React Native y Firebase.
 - 🛒 Autor de **Calletano POS**, un sistema de punto de venta para CALLETANO RESTAURANT con sincronización en tiempo real entre caja, meseros y web.
 - 🚀 Me destaco por transformar procesos manuales en sistemas eficientes: gestión de salón, cobros, inventario y reportes.
 - 🌐 Conoce más en mi [portafolio web](https://juancall.github.io/Portafolio-Web/).
 
-<br>
+<br><br>
 
 ## 🛠️ Tech Stack
 
