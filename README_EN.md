@@ -9,26 +9,18 @@
   </a>
 </p>
 
-## 👨‍💻 About me
-
-
-- 🎓 **Systems Engineering** student at Universidad Privada del Norte (UPN) — graduating 2026.
-
-- 💻 Software developer focused on **web & mobile**: React, Node.js, React Native and Firebase.
-
-- 🛒 Author of **Calletano POS**, a point of sale system for CALLETANO RESTAURANT with real-time synchronization between the cash register, waiters and the web.
-
-- 🚀 I specialize in turning manual processes into efficient systems: floor management, payments, inventory and reporting.
-
-- 🌐 Learn more on my [web portfolio](https://juancall.github.io/Portafolio-Web/).
+<p align="center">
+  🌐 Learn more on my <a href="https://juancall.github.io/Portafolio-Web/"><b>web portfolio</b></a>
+</p>
 
 <br>
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JuanCall&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanCall&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JuanCall&theme=dark" alt="GitHub profile summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JuanCall&theme=dark" alt="GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JuanCall&theme=dark" alt="Top languages" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JuanCall&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
@@ -77,28 +69,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
-<br>
-
-## 🚀 Featured Projects
-
-### 🛒 Calletano POS — Point of Sale System for Restaurants
-*React · Node.js · Express · Electron · SQLite · Socket.IO · Chart.js · Firebase · 2026 – present*
-
-- Complete platform with three components synchronized in **real time**: a desktop app for the cash register (Electron + React), a mobile POS-Waiter app for waiters (React Native/Expo, TypeScript) and a public website.
-
-- Visual floor management, mixed payments (Cash, Yape, Plin, cards), electronic receipts with SUNAT QR, cash reconciliation, managerial BI dashboard with Chart.js, inventory with critical stock alerts, delivery and a customer club with digital QR card.
-
-- REST API and real-time layer with Socket.IO on SQLite, with secure authentication (bcrypt), validation (Zod) and logging (Winston).
-
-- Packaged as a Windows installer (electron-builder / NSIS) for commercial distribution.
-
-### 🌐 Calletano Web — Official Website & Digital Menu
-*JavaScript · Firebase (Firestore, Hosting) · Bootstrap 5 · SEO · Feb 2026 – present*
-
-- Public restaurant website with online menu and daily specials, real-time open/closed status and direct WhatsApp ordering.
-
-- Technical SEO (Schema.org, Open Graph, sitemap.xml, robots.txt) and mobile-first design.
 
 <br>
 
