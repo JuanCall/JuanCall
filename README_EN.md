@@ -1,22 +1,22 @@
-<h4 align="center"><a href="README_EN.md">🌎 English</a> | <b>Español</b></h4>
+<h4 align="center"><b>English</b> | <a href="README.md">🌎 Español</a></h4>
 
-<h1 align="center">Hola, soy Juan Calle 👋</h1>
-<h3 align="center">Desarrollador de Software · Web y Móvil</h3>
+<h1 align="center">Hi, I'm Juan Call 👋</h1>
+<h3 align="center">Software Developer · Web & Mobile</h3>
 
 <p align="center">
   <a href="https://juancall.github.io/Portafolio-Web/">
-    <img src="https://readme-typing-svg.demolab.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Desarrollador+de+Software;React+%7C+Node.js+%7C+React+Native+%7C+Firebase;Estudiante+de+Ingenier%C3%ADa+de+Sistemas;Construyendo+soluciones+completas;Siempre+aprendiendo+cosas+nuevas" />
+    <img src="https://readme-typing-svg.demolab.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Developer;React+%7C+Node.js+%7C+React+Native+%7C+Firebase;Systems+Engineering+Student;Building+complete+solutions;Always+learning+new+things" />
   </a>
 </p>
 
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220" alt="Coding gif" />
 
-## 👨‍💻 Sobre mí
-- 🎓 Estudiante de **Ingeniería de Sistemas** en la Universidad Privada del Norte (UPN) — último ciclo, egreso 2026.
-- 💻 Desarrollador de software enfocado en **web y móvil**: React, Node.js, React Native y Firebase.
-- 🛒 Autor de **Calletano POS**, un sistema de punto de venta para restaurantes con sincronización en tiempo real entre caja, meseros y web.
-- 🚀 Me destaco por transformar procesos manuales en sistemas eficientes: gestión de salón, cobros, inventario y reportes.
-- 🌐 Conoce más en mi [portafolio web](https://juancall.github.io/Portafolio-Web/).
+## 👨‍💻 About me
+- 🎓 **Systems Engineering** student at Universidad Privada del Norte (UPN) — final year, graduating 2026.
+- 💻 Software developer focused on **web & mobile**: React, Node.js, React Native and Firebase.
+- 🛒 Author of **Calletano POS**, a point of sale system for restaurants with real-time synchronization between the cash register, waiters and the web.
+- 🚀 I specialize in turning manual processes into efficient systems: floor management, payments, inventory and reporting.
+- 🌐 Learn more on my [web portfolio](https://juancall.github.io/Portafolio-Web/).
 
 <br>
 
@@ -39,23 +39,23 @@
 ![Express](https://img.shields.io/badge/Express-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/Socket.io-%23010101.svg?style=for-the-badge&logo=socket.io&logoColor=white)
 
-#### 📱 Móvil y Desktop
+#### 📱 Mobile & Desktop
 
 ![React Native](https://img.shields.io/badge/React%20Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Expo](https://img.shields.io/badge/Expo-%23000020.svg?style=for-the-badge&logo=expo&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-%2347848F.svg?style=for-the-badge&logo=electron&logoColor=white)
 
-#### 🗄️ Bases de datos
+#### 🗄️ Databases
 
 ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
 
-#### ☁️ Cloud y despliegue
+#### ☁️ Cloud & Deployment
 
 ![Firebase Hosting](https://img.shields.io/badge/Firebase%20Hosting-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
 ![Firebase Admin](https://img.shields.io/badge/Firebase%20Admin-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
 
-#### 🧰 Herramientas
+#### 🧰 Tools
 
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -66,33 +66,33 @@
 
 <br>
 
-## 🚀 Proyectos destacados
+## 🚀 Featured Projects
 
-### 🛒 Calletano POS — Sistema de Punto de Venta para Restaurantes
-*React · Node.js · Express · Electron · SQLite · Socket.IO · Chart.js · Firebase · 2026 – actualidad*
+### 🛒 Calletano POS — Point of Sale System for Restaurants
+*React · Node.js · Express · Electron · SQLite · Socket.IO · Chart.js · Firebase · 2026 – present*
 
-- Plataforma integral con tres componentes sincronizados en **tiempo real**: app de escritorio para la caja (Electron + React), app móvil POS-Mozo para meseros (React Native/Expo, TypeScript) y sitio web público.
-- Gestión visual del salón, cobros mixtos (Efectivo, Yape, Plin, tarjetas), boletas electrónicas con QR SUNAT, arqueo de caja, dashboard gerencial (BI) con Chart.js, inventario con alertas de stock, delivery y club de clientes con tarjeta digital QR.
-- API REST y capa de tiempo real con Socket.IO sobre SQLite, con autenticación segura (bcrypt), validación (Zod) y logging (Winston).
-- Empaquetado como instalador de Windows (electron-builder / NSIS) para distribución comercial.
+- Complete platform with three components synchronized in **real time**: a desktop app for the cash register (Electron + React), a mobile POS-Waiter app for waiters (React Native/Expo, TypeScript) and a public website.
+- Visual floor management, mixed payments (Cash, Yape, Plin, cards), electronic receipts with SUNAT QR, cash reconciliation, managerial BI dashboard with Chart.js, inventory with critical stock alerts, delivery and a customer club with digital QR card.
+- REST API and real-time layer with Socket.IO on SQLite, with secure authentication (bcrypt), validation (Zod) and logging (Winston).
+- Packaged as a Windows installer (electron-builder / NSIS) for commercial distribution.
 
-### 🌐 Calletano Web — Sitio oficial y menú digital
-*JavaScript · Firebase (Firestore, Hosting) · Bootstrap 5 · SEO · Feb 2026 – actualidad*
+### 🌐 Calletano Web — Official Website & Digital Menu
+*JavaScript · Firebase (Firestore, Hosting) · Bootstrap 5 · SEO · Feb 2026 – present*
 
-- Sitio público del restaurante con carta y menú del día en línea, estado abierto/cerrado en tiempo real y pedidos directos por WhatsApp.
-- SEO técnico (Schema.org, Open Graph, sitemap.xml, robots.txt) y diseño mobile-first.
+- Public restaurant website with online menu and daily specials, real-time open/closed status and direct WhatsApp ordering.
+- Technical SEO (Schema.org, Open Graph, sitemap.xml, robots.txt) and mobile-first design.
 
 <br>
 
-## 🎓 Certificaciones
+## 🎓 Certifications
 
-- **CCNA: Fundamentos de Conmutación, Enrutamiento y Redes Inalámbricas** — Cisco Networking Academy (2025)
-- **Introducción a la Ciencia de Datos** — Cisco Networking Academy (2024)
+- **CCNA: Switching, Routing, and Wireless Essentials** — Cisco Networking Academy (2025)
+- **Introduction to Data Science** — Cisco Networking Academy (2024)
 - **CLA: Programming Essentials in C** — Cisco Networking Academy (2022)
 
 <br>
 
-## 📫 Contacto
+## 📫 Contact
 
 <a target="_blank" href="https://www.linkedin.com/in/juan-anthony-calle-rosales-a828a8210/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
 &emsp;
