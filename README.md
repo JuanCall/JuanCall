@@ -15,17 +15,6 @@
 
 <br>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JuanCall&theme=dark" alt="GitHub profile summary" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JuanCall&theme=dark" alt="GitHub stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JuanCall&theme=dark" alt="Top languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JuanCall&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<br>
-
 ## 🛠️ Tech Stack
 
 #### 🌐 Frontend
@@ -69,6 +58,17 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+<br>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JuanCall&theme=dark" alt="GitHub profile summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JuanCall&theme=dark" alt="GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JuanCall&theme=dark" alt="Top languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JuanCall&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
 
 <br>
 
