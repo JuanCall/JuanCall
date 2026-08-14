@@ -20,7 +20,6 @@
 - 🚀 Me destaco por transformar procesos manuales en sistemas eficientes: gestión de salón, cobros, inventario y reportes.
 - 🌐 Conoce más en mi [portafolio web](https://juancall.github.io/Portafolio-Web/).
 
-<br><br>
 
 ## 🛠️ Tech Stack
 
