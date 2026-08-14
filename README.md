@@ -11,7 +11,6 @@
 
 ## 👨‍💻 Sobre mí
 
-<br>
 
 - 🎓 Estudiante de **Ingeniería de Sistemas** en la Universidad Privada del Norte (UPN) — egreso 2026.
 
@@ -23,7 +22,6 @@
 
 - 🌐 Conoce más en mi [portafolio web](https://juancall.github.io/Portafolio-Web/).
 
-<br>
 
 ## 🛠️ Tech Stack
 
@@ -77,14 +75,18 @@
 *React · Node.js · Express · Electron · SQLite · Socket.IO · Chart.js · Firebase · 2026 – actualidad*
 
 - Plataforma integral con tres componentes sincronizados en **tiempo real**: app de escritorio para la caja (Electron + React), app móvil POS-Mozo para meseros (React Native/Expo, TypeScript) y sitio web público.
+
 - Gestión visual del salón, cobros mixtos (Efectivo, Yape, Plin, tarjetas), boletas electrónicas con QR SUNAT, arqueo de caja, dashboard gerencial (BI) con Chart.js, inventario con alertas de stock, delivery y club de clientes con tarjeta digital QR.
+
 - API REST y capa de tiempo real con Socket.IO sobre SQLite, con autenticación segura (bcrypt), validación (Zod) y logging (Winston).
+
 - Empaquetado como instalador de Windows (electron-builder / NSIS) para distribución comercial.
 
 ### 🌐 Calletano Web — Sitio oficial y menú digital
 *JavaScript · Firebase (Firestore, Hosting) · Bootstrap 5 · SEO · Feb 2026 – actualidad*
 
 - Sitio público del restaurante con carta y menú del día en línea, estado abierto/cerrado en tiempo real y pedidos directos por WhatsApp.
+
 - SEO técnico (Schema.org, Open Graph, sitemap.xml, robots.txt) y diseño mobile-first.
 
 <br>
