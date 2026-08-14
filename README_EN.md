@@ -1,6 +1,6 @@
 <h4 align="center"><b>English</b> | <a href="README.md">🌎 Español</a></h4>
 
-<h1 align="center">Hi, I'm Juan Call 👋</h1>
+<h1 align="center">Hi, I'm Juan Calle 👋</h1>
 <h3 align="center">Software Developer · Web & Mobile</h3>
 
 <p align="center">
@@ -9,14 +9,28 @@
   </a>
 </p>
 
-<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220" alt="Coding gif" />
-
 ## 👨‍💻 About me
-- 🎓 **Systems Engineering** student at Universidad Privada del Norte (UPN) — final year, graduating 2026.
+
+
+- 🎓 **Systems Engineering** student at Universidad Privada del Norte (UPN) — graduating 2026.
+
 - 💻 Software developer focused on **web & mobile**: React, Node.js, React Native and Firebase.
-- 🛒 Author of **Calletano POS**, a point of sale system for restaurants with real-time synchronization between the cash register, waiters and the web.
+
+- 🛒 Author of **Calletano POS**, a point of sale system for CALLETANO RESTAURANT with real-time synchronization between the cash register, waiters and the web.
+
 - 🚀 I specialize in turning manual processes into efficient systems: floor management, payments, inventory and reporting.
+
 - 🌐 Learn more on my [web portfolio](https://juancall.github.io/Portafolio-Web/).
+
+<br>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JuanCall&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanCall&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JuanCall&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
 
 <br>
 
@@ -72,14 +86,18 @@
 *React · Node.js · Express · Electron · SQLite · Socket.IO · Chart.js · Firebase · 2026 – present*
 
 - Complete platform with three components synchronized in **real time**: a desktop app for the cash register (Electron + React), a mobile POS-Waiter app for waiters (React Native/Expo, TypeScript) and a public website.
+
 - Visual floor management, mixed payments (Cash, Yape, Plin, cards), electronic receipts with SUNAT QR, cash reconciliation, managerial BI dashboard with Chart.js, inventory with critical stock alerts, delivery and a customer club with digital QR card.
+
 - REST API and real-time layer with Socket.IO on SQLite, with secure authentication (bcrypt), validation (Zod) and logging (Winston).
+
 - Packaged as a Windows installer (electron-builder / NSIS) for commercial distribution.
 
 ### 🌐 Calletano Web — Official Website & Digital Menu
 *JavaScript · Firebase (Firestore, Hosting) · Bootstrap 5 · SEO · Feb 2026 – present*
 
 - Public restaurant website with online menu and daily specials, real-time open/closed status and direct WhatsApp ordering.
+
 - Technical SEO (Schema.org, Open Graph, sitemap.xml, robots.txt) and mobile-first design.
 
 <br>

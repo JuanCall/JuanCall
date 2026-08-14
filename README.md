@@ -22,6 +22,17 @@
 
 - 🌐 Conoce más en mi [portafolio web](https://juancall.github.io/Portafolio-Web/).
 
+<br>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JuanCall&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanCall&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JuanCall&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<br>
 
 ## 🛠️ Tech Stack
 
