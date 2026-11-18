@@ -28,7 +28,7 @@ Full point-of-sale system: floor and tables, split payments, SUNAT e-invoices wi
 
 **Mediflow — Medical appointment management** · Express · Firestore · 3 roles
 Overbooking-free scheduling, PDF prescriptions and reports, with admin, doctor and patient roles.
-[Live demo](https://mediflow-b62ec.web.app/) · [Source](https://github.com/JuanCall/Mediflow-CloudComputing-Continuidad)
+[Live demo](https://mediflow-b62ec.web.app/) · [API docs](https://juancall.github.io/Mediflow-CloudComputing-Continuidad/) · [Source](https://github.com/JuanCall/Mediflow-CloudComputing-Continuidad)
 
 **Calletano Web — Restaurant site and digital menu** · JavaScript · Firebase · SEO
 Menu of the day with real-time availability, open/closed status and WhatsApp ordering.

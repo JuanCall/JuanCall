@@ -28,7 +28,7 @@ Punto de venta completo: salón y mesas, cobros mixtos, boletas SUNAT con QR, in
 
 **Mediflow — Gestión de citas médicas** · Express · Firestore · 3 roles
 Agenda sin overbooking, recetas en PDF y reportes, con roles de administrador, médico y paciente.
-[Ver demo](https://mediflow-b62ec.web.app/) · [Código](https://github.com/JuanCall/Mediflow-CloudComputing-Continuidad)
+[Ver demo](https://mediflow-b62ec.web.app/) · [API docs](https://juancall.github.io/Mediflow-CloudComputing-Continuidad/) · [Código](https://github.com/JuanCall/Mediflow-CloudComputing-Continuidad)
 
 **Calletano Web — Sitio y menú digital** · JavaScript · Firebase · SEO
 Carta y menú del día con disponibilidad en tiempo real, estado abierto/cerrado y pedidos por WhatsApp.
