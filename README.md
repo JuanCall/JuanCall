@@ -34,10 +34,6 @@ Agenda sin overbooking, recetas en PDF y reportes, con roles de administrador, m
 Carta y menú del día con disponibilidad en tiempo real, estado abierto/cerrado y pedidos por WhatsApp.
 [Ver demo](https://calletano-restaurant.web.app/) · [Código](https://github.com/JuanCall/Web-Calletano-Restaurant)
 
-**Portafolio Web** · HTML · CSS · JS
-El sitio con el detalle de cada proyecto.
-[Ver sitio](https://juancall.github.io/Portafolio-Web/)
-
 <br>
 
 ## 🛠️ Tech Stack

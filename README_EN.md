@@ -34,10 +34,6 @@ Overbooking-free scheduling, PDF prescriptions and reports, with admin, doctor a
 Menu of the day with real-time availability, open/closed status and WhatsApp ordering.
 [Live demo](https://calletano-restaurant.web.app/) · [Source](https://github.com/JuanCall/Web-Calletano-Restaurant)
 
-**Web Portfolio** · HTML · CSS · JS
-The site with the details of each project.
-[Visit site](https://juancall.github.io/Portafolio-Web/)
-
 <br>
 
 ## 🛠️ Tech Stack
