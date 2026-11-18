@@ -15,6 +15,31 @@
 
 <br>
 
+## 🚀 Projects
+
+**MesaLista — POS SaaS for restaurants** · Electron + React · Express · SQLite · Firebase
+Full point-of-sale system: floor and tables, split payments, SUNAT e-invoices with QR, inventory, cash reconciliation and sales dashboard. Running in production at a real restaurant; the public repo is the downloadable white-label edition.
+[⬇️ Download demo](https://github.com/JuanCall/pos-saas-demo/releases/tag/v1.7.3-demo) · [Source](https://github.com/JuanCall/pos-saas-demo)
+
+<p align="center">
+  <a href="https://github.com/JuanCall/pos-saas-demo"><img src="https://raw.githubusercontent.com/JuanCall/pos-saas-demo/main/docs/capturas/salon-mesas.jpg" alt="POS floor and tables" width="49%"></a>
+  <a href="https://github.com/JuanCall/pos-saas-demo"><img src="https://raw.githubusercontent.com/JuanCall/pos-saas-demo/main/docs/capturas/analitica-ventas.jpg" alt="POS sales analytics" width="49%"></a>
+</p>
+
+**Mediflow — Medical appointment management** · Express · Firestore · 3 roles
+Overbooking-free scheduling, PDF prescriptions and reports, with admin, doctor and patient roles.
+[Live demo](https://mediflow-b62ec.web.app/) · [Source](https://github.com/JuanCall/Mediflow-CloudComputing-Continuidad)
+
+**Calletano Web — Restaurant site and digital menu** · JavaScript · Firebase · SEO
+Menu of the day with real-time availability, open/closed status and WhatsApp ordering.
+[Live demo](https://calletano-restaurant.web.app/) · [Source](https://github.com/JuanCall/Web-Calletano-Restaurant)
+
+**Web Portfolio** · HTML · CSS · JS
+The site with the details of each project.
+[Visit site](https://juancall.github.io/Portafolio-Web/)
+
+<br>
+
 ## 🛠️ Tech Stack
 
 #### 🌐 Frontend
